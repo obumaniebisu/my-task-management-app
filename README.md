@@ -1,6 +1,5 @@
-# Task-management Dashboard📝
-Developed By : franklyn inoma
-
+# Task-management Dashboard
+By Obuma Ni-ebisu
 <img src="img/ico.png" alt="Task-management" width="35" height="35">
 
 ## Introduction 🌟
